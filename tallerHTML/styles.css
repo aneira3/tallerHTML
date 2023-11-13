@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #111;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+h1 {
+    float: left;
+    margin: 0;
+}
+
+nav {
+    float: right;
+}
+
+.ulH {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.liH {
+    display: inline;
+    margin-left: 20px;
+    font-size: 25px; 
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#imgHeader
+{
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-right: 25px;
+
+}
+
+.objetivo
+{
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.tit
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+.info
+{
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#fotoFD
+{
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin-right: 25px;
+}
+
+#txtFD
+{
+    margin-top: 20px;
+}
+
+h4
+{
+
+    margin-left: 50px;
+}
+
+.prop
+{
+    margin-left: 65px;
+}
+
+#fotoC
+{
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+
+.FD
+{
+    margin-bottom: 50px;
+}
+
+.links{
+    font-size: 100%;
+}
